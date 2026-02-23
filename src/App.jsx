@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './Components/Home/Home';
 import DigitalNoticeBoard from './Components/DigitalNoticeBoard/DigitalNoticeBoard';
 import LearningManagement from './Components/LearningManagement/LearningManagement';
